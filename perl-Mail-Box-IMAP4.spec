@@ -4,7 +4,6 @@
 #
 %define		pdir	Mail
 %define		pnam	Box-IMAP4
-%include	/usr/lib/rpm/macros.perl
 Summary:	Mail::Transport::IMAP4 - proxy to Mail::IMAPClient
 Name:		perl-Mail-Box-IMAP4
 Version:	3.003
